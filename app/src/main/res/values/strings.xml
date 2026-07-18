@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">Minuet</string>
+
+    <string name="str_nav_songs">Músicas</string>
+    <string name="str_nav_setlists">Setlists</string>
+    <string name="str_nav_back">Voltar</string>
+
+    <string name="str_song_list_title">Músicas</string>
+    <string name="str_song_list_add_action">Adicionar música</string>
+    <string name="str_song_list_empty_title">Nenhuma música cadastrada</string>
+    <string name="str_song_list_empty_message">Toque no botão + para adicionar sua primeira música.</string>
+    <string name="str_song_list_error_message">Não foi possível carregar as músicas.</string>
+    <string name="str_song_list_error_retry">Tentar novamente</string>
+    <string name="str_song_list_item_bpm_format">%1$d BPM</string>
+
+    <string name="str_song_detail_title">Detalhe da música</string>
+    <string name="str_song_detail_placeholder">Detalhe da música (ID: %1$s) — em construção</string>
+
+    <string name="str_add_song_title">Nova música</string>
+    <string name="str_add_song_placeholder">Cadastro de música — em construção</string>
+
+    <string name="str_setlists_title">Setlists</string>
+    <string name="str_setlists_placeholder">Lista de setlists — em construção</string>
 </resources>
